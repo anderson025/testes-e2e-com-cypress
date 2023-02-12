@@ -6,5 +6,6 @@
       },
     "chromeWebSecurity": false,
     "experimentalSessionSupport":true,
-    "experimentalStudio": true
+    "experimentalStudio": true,
+    "projectId": "auehnj"
 }
